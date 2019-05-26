@@ -1,0 +1,6 @@
+/Users/milo/Projects/TestingExtensibility/TestingExtensibility/obj/x86/Debug/TestingExtensibility.csprojAssemblyReference.cache
+/Users/milo/Projects/TestingExtensibility/TestingExtensibility/obj/x86/Debug/TestingExtensibility.csproj.CoreCompileInputs.cache
+/Users/milo/Projects/TestingExtensibility/TestingExtensibility/bin/Debug/TestingExtensibility.exe
+/Users/milo/Projects/TestingExtensibility/TestingExtensibility/bin/Debug/TestingExtensibility.pdb
+/Users/milo/Projects/TestingExtensibility/TestingExtensibility/obj/x86/Debug/TestingExtensibility.exe
+/Users/milo/Projects/TestingExtensibility/TestingExtensibility/obj/x86/Debug/TestingExtensibility.pdb
